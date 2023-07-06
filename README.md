@@ -1,6 +1,26 @@
-# Welcome to Remix!
+# Soo you want Create a Full Stack Realtime Chat Messaging App with Remix.run
 
-- [Remix Docs](https://remix.run/docs)
+[![Create a Full Stack Realtime Chat Messaging App with Remix.run](https://img.youtube.com/vi/WUoXCSYiNKk/0.jpg)](https://www.youtube.com/watch?v=WUoXCSYiNKk)
+
+-------------
+
+
+
+- [Remix.run](https://remix.run/)
+- [Tailwind.css](https://tailwindcss.com/)
+- [Remix-Auth Docs](https://remix-docs-flame.vercel.app/)
+
+### Commands you will need
+```sh
+npm i remix-utils remix-auth-socials remix-auth @prisma/client
+```
+
+```sh
+npm i -D prisma
+```
+
+
+
 
 ## Fly Setup
 
